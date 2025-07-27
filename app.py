@@ -7,8 +7,8 @@ from linebot.exceptions import InvalidSignatureError
 from linebot.models import MessageEvent, TextMessage, TextSendMessage, ImageMessage
 
 # --- 1. กรอกข้อมูลของคุณ ---
-LINE_CHANNEL_ACCESS_TOKEN = "YOUR_CHANNEL_ACCESS_TOKEN"
-LINE_CHANNEL_SECRET = "YOUR_CHANNEL_SECRET"
+LINE_CHANNEL_ACCESS_TOKEN = "ldGBgN9pEvNUsLxwK/khO2jCnaPbrS45zgRo0wWYKWjNDlsQieFEmGsGrz12LO6hxe6+D+sfoLqXm4um7GO6s/8vvcHgLxtpkDQGoTDL0vXldT91gIzBXUW7eRtHefC6h5Weu2KcpNGbLBbE8P3fOQdB04t89/1O/w1cDnyilFU="
+LINE_CHANNEL_SECRET = "77d8cb2ef1de79dbc62ce28771af0ad9"
 # --- สิ้นสุดส่วนที่ต้องแก้ไข ---
 
 # --- 2. ตั้งค่าโมเดล YOLO ---
