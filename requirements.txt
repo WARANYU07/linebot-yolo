@@ -1,0 +1,5 @@
+opencv-python-headless
+numpy
+Flask
+line-bot-sdk==3.5.0
+gunicorn
